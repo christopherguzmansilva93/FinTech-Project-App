@@ -48,3 +48,5 @@ Finalize the app design and implement necessary features
 Launch the app on IOS/AndroidOS platforms 
 Promote the app through advertising and partnerships 
 Continuously update the app with newer features and improvements.
+
+TEST THE APP AT https://previewer.adalo.com/76f1d925-dc19-4fb6-90ad-a73be8c88b41
